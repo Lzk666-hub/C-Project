@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/12077/CLionProjects/p5/Dlist.h
+DlistImpl.h
+C:/Users/12077/CLionProjects/p5/DlistImpl.h
+
+C:/Users/12077/CLionProjects/p5/DlistImpl.h
+Dlist.h
+C:/Users/12077/CLionProjects/p5/Dlist.h
+
+C:/Users/12077/CLionProjects/p5/Instr.h
+iostream
+-
+string
+-
+
+C:/Users/12077/CLionProjects/p5/sam.cpp
+algorithm
+-
+iostream
+-
+string
+-
+Dlist.h
+C:/Users/12077/CLionProjects/p5/Dlist.h
+Instr.h
+C:/Users/12077/CLionProjects/p5/Instr.h
+sstream
+-
+
