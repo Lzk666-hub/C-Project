@@ -1,0 +1,6 @@
+Something before the server lost all of its data...
+Why this was found in that 7-year-old boy's iPad...
+The working directory should be the root directory of your project.
+Try it.
+The database is just that database. The group list is just that group list. And the lucky number is 39.
+If you spot any problems, you know what to do.

@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/12077/CLionProjects/untitled30/bot.cpp
+bot.h
+C:/Users/12077/CLionProjects/untitled30/bot.h
+sstream
+-
+
+C:/Users/12077/CLionProjects/untitled30/bot.h
+iostream
+-
+rand.h
+C:/Users/12077/CLionProjects/untitled30/rand.h
+constants.h
+C:/Users/12077/CLionProjects/untitled30/constants.h
+fstream
+-
+ostream
+-
+string
+-
+
+C:/Users/12077/CLionProjects/untitled30/constants.h
+
+C:/Users/12077/CLionProjects/untitled30/main.cpp
+iostream
+-
+rand.h
+C:/Users/12077/CLionProjects/untitled30/rand.h
+string
+-
+sstream
+-
+bot.h
+C:/Users/12077/CLionProjects/untitled30/bot.h
+
+C:/Users/12077/CLionProjects/untitled30/rand.h
+constants.h
+C:/Users/12077/CLionProjects/untitled30/constants.h
+
